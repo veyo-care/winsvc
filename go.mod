@@ -1,4 +1,4 @@
-module github.com/itcomusic/winsvc
+module github.com/veyo-care/winsvc
 
 go 1.13
 
